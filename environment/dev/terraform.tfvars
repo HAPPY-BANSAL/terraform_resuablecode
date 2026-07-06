@@ -49,5 +49,10 @@ subnets = {
         virtual_network_name = "network1"
         address_prefixes = ["10.0.3.0/24"]
     }
-
+    subnet4 = {
+         name= "appgwsubnet"
+        resource_group_name = "rg-prod"
+        virtual_network_name = "network1"
+        address_prefixes = ["10.0.4.0/24"]
+    }
 }

@@ -7,7 +7,7 @@ rgs = {
 
 stgs = {
     stg1= {
-        name = "firstterraformstorage"
+        name = "niliparikalipari"
         resource_group_name = "rg-prod"
         location = "centralindia"
         account_tier = "Standard"
